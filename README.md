@@ -1,2 +1,2 @@
 # raft
-raft implementation in go
+Raft Consensus Algorithm Implementation with Go
